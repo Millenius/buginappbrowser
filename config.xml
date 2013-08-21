@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.zzzzpoihz.www"
+        versionCode="100"
+        version   = "1.0.0">
+    <name>Bug InAppBrowser</name>
+    <description>Bug InAppBrowser</description>
+	<preference name="permissions" value="none"/>
+	<preference name="phonegap-version" value="2.9.0"/>
+	<preference name="load-url-timeout" value="11000" />
+</widget>
